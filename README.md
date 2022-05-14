@@ -1,6 +1,6 @@
 # Portfolio Website Template
 
-This is the source code for [Tobym.dev](https://www.tobym.dev/).
+This is the source code for [Tobym.dev](https://www.tobym.dev/)
 
 ![tobym.dev Website](src/images/tobymdev.gif)
 
