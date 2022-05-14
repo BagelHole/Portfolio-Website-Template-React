@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Portfolio Website Template
+
+This is the source code for [Tobym.dev](https://www.tobym.dev/).
+
+![tobym.dev Website](src/images/tobymdev.gif)
+
+This website is written with react.js. I have it hosted on Netlify if you have any questions or comments, please feel free to reach out to me at [My Twitter](https://twitter.com/TheTobyMiller) or open an issue on this repository.
+
+## Use
+
+Feel free to use this as a template for your own website.
+
+The code is not super optimized, but it works. If you have any suggestions, please let me know.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
